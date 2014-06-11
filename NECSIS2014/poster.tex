@@ -58,6 +58,7 @@
     \vspace{-1.5cm}
             \begin{columns}[t]
              \begin{column}{.19\linewidth}
+             \small
            \begin{center}\textbf{Model-level}\end{center}
            \footnotesize
            The model-level optimizations are those that are not dependent in any way on the target architecture, and focus on changing the structure itself of the model. \\~\\Examples include, dead-block removal where
@@ -65,6 +66,7 @@
            \end{column}
            \hspace{-1.2cm}\vrule\hspace{.05cm}
            \begin{column}{.19\linewidth}
+           \small
           \begin{center}\textbf{Platform-independent}\end{center}
           \footnotesize
             In this second level of optimization generality, optimizations are specific to a general class
@@ -75,6 +77,7 @@
             \end{column}
             \hspace{-1.2cm}\vrule\hspace{.05cm}
             \begin{column}{.16\linewidth}
+            \small
           \begin{center}\textbf{Platform-dependent}\end{center}
           \footnotesize
             Platform-dependent optimizations can be characterized by their dependence on a particular target
@@ -83,6 +86,7 @@
             \end{column}
             \hspace{-1.2cm}\vrule\hspace{.05cm}
             \begin{column}{.18\linewidth}
+            \small
           \begin{center}\textbf{Optimization Hierarchy}\end{center}
           \footnotesize
             These classification levels can be placed in a hierarchical relationship, with optimizations
@@ -102,12 +106,14 @@
         \begin{columns}[t]
          \begin{column}{.485\linewidth}
          \vspace{-.8cm}
+         \small
        \begin{center}\textbf{Analysis}\end{center}
        \footnotesize
        Our work defines an analysis procedure to collect dataflow information for each node in the Simulink model. This procedure is based upon that used in the compiler literature. For example, for constant folding, the information propagated is whether a block will always produce a constant value during simulation.
        \end{column}
        \begin{column}{.485\linewidth}
        \vspace{-.8cm}
+       \small
       \begin{center}\textbf{Transformation}\end{center}
         \footnotesize
         The optimization framework can then transform the model, based on the analysis results. This transformation is performed by utilizing the Himesis model format. After the transformation is complete, the optimized model is imported back into Simulink. This provides a second model to be further tested or modified.
@@ -129,13 +135,13 @@
         \begin{center}
         
         \includegraphics[width=0.8\linewidth]{images/models/Const1}\\
-        \footnotesize Model before
+        \footnotesize \textit{Model before}
         \end{center}
         \end{column}
         \begin{column}{.485\linewidth}
         \begin{center}
         \includegraphics[width=0.8\linewidth]{images/models/Const1_export}\\
-        \footnotesize Model after
+        \footnotesize \textit{Model after}
         \end{center}
         \end{column}
         \end{columns}
@@ -151,41 +157,44 @@
          \begin{center}
          
          \includegraphics[width=0.8\linewidth]{images/models/HSimpleConstDead}\\
-          \footnotesize Model before
+          \footnotesize \textit{Model before}
          \end{center}
          \end{column}
          \begin{column}{.485\linewidth}
          \begin{center}
          \includegraphics[width=0.8\linewidth]{images/models/HSimpleConstDead_export}\\
-        \footnotesize Model after
+        \footnotesize \textit{Model after}
          \end{center}
          \end{column}
          \end{columns}
           \footnotesize ~\\
-         The constant folding optimization determines which blocks will always produce a constant value. For example, the four blocks on the left in the original model can be replaced by one constant block. This reduces the computation effort required by this model.
+         The dead block removal optimization determines which blocks produces an output that is not further used in the model. For example, the output of the sum block on the left in the original model is not connected to another block. Thus the addition block and one constant block can be removed from the model.
           ~\\~\\
          \hrule
+         \small
           \begin{center}\textbf{Flattening}\end{center}
                  
          \begin{columns}[c]
          \begin{column}{.485\linewidth}
          \begin{center}
          
-         \includegraphics[width=\linewidth]{images/models/Flatten1}\\
-         Blah blah blah
+         \includegraphics[width=0.8\linewidth]{images/models/Flatten1}\\
+         \footnotesize \textit{Model before}
          \end{center}
          \end{column}
          \begin{column}{.485\linewidth}
          \begin{center}
-         \includegraphics[width=\linewidth]{images/models/Flatten1_subsystem}\\
-         Blah blah blah
+         \includegraphics[width=0.6\linewidth]{images/models/Flatten1_subsystem}\\
+         \footnotesize \textit{Inner subsystem before}
          \end{center}
          \end{column}
          \end{columns}
          \begin{center}
-          \includegraphics[width=\linewidth]{images/models/Flatten1_export}\\
-          Blah blah blah
+          \includegraphics[width=0.5\linewidth]{images/models/Flatten1_export}\\
+          \footnotesize \textit{Flattened model after}
           \end{center}
+         \footnotesize
+         The flattening optimization ``lifts'' blocks out of an inner subsystem of a model. This may allow further optimizations to be performed.
          
         \end{block}
       \end{column}
@@ -247,25 +256,16 @@
              
              \begin{block}{Conclusions \& Future Work}
              \small
-        	   The DSLTrans principles can be extended to building other domain
-        	   specific translation languages. We are currently thinking about building domain
-            specific translation languages by composing components such that the
-            resulting language will always describe \emph{finite} and
-            \emph{confluent} transformations. If that is the case, transformation
-            model checkers such as the one for DSLTrans can also be
-            (semi-)automatically built.\vspace{1.1cm}
+        	   The optimizations shown here demonstrate how the performance of a model simulation can be increased (as for the constant folding optimization), and how a model can be made visually simpler (as with the dead-block removal and flattening optimizations). We note that these optimizations are relatively easier to specify and implement, and can be executed in a very short amount of time.
+        	   
+        	   ~\\
+        	   Future work will focus on specifying more optimizations at all levels of the optimization hierarchy. As well, experiments will be performed on larger and more complex models. Finally, we aim to formally verify the model transformations used.
              \end{block}
              
              \begin{block}{Bibliography}
              \small
      	   \begin{thebibliography}{10} 
-     	   \bibitem{SLE2010} Bruno Barroca, Levi Lucio, Vasco Amaral, Roberto
-     	   F{\'e}lix and Vasco Sousa, {\em DSLTrans: A Turing Incomplete
-     	   Transformation Language}, Proceedings of the SLE 2010 conference,
-     	   Springer 2010, pp. 296-305.
-     	   \bibitem{MODELS2010} Levi Lucio, Bruno Barroca, Vasco Amaral, {\em A
-     	   Technique for Automatic Validation of Model Transformations},
-     	   Proceedings of the MoDELS 2010 Conference, Springer, pp. 136-150.
+     	   \bibitem{SLE2010} Bentley James Oakes, {\em Optimizing Simulink Models}, Report for COMP 621 - Program Analysis and Transformations, \url{https://github.com/BentleyJOakes/BDOT}
           		\end{thebibliography}	   
               	\end{block}
                      

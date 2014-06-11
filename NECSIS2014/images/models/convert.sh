@@ -3,7 +3,7 @@
 
 #in Simulink, to export models: print -dsvg -sFlatten1/Subsystem Flatten1_subsystem.svg
 
-#usage: ./convert.sh *
+#usage: ./convert.sh *.svg
 for var in "$@"
 
 do

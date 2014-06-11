@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.5.5)  11 JUN 2014 15:18
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Arch Linux) (format=pdflatex 2014.5.5)  11 JUN 2014 16:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1131,12 +1131,12 @@ Package pdftex.def Info: images/hierarchy-eps-converted-to.pdf used on input li
 ne 277.
 (pdftex.def)             Requested size: 443.85622pt x 365.31393pt.
 Package epstopdf Info: Source file: <images/models/Const1.eps>
-(epstopdf)                    date: 2014-06-11 14:29:57
-(epstopdf)                    size: 29316 bytes
+(epstopdf)                    date: 2014-06-11 15:44:15
+(epstopdf)                    size: 29420 bytes
 (epstopdf)             Output file: <images/models/Const1-eps-converted-to.pdf>
 
-(epstopdf)                    date: 2014-06-11 14:30:06
-(epstopdf)                    size: 6197 bytes
+(epstopdf)                    date: 2014-06-11 15:44:20
+(epstopdf)                    size: 6222 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/models/Const1-eps-c
 onverted-to.pdf images/models/Const1.eps>
 (epstopdf)             \includegraphics on input line 277.
@@ -1149,13 +1149,15 @@ File: images/models/Const1-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: images/models/Const1-eps-converted-to.pdf used on inpu
 t line 277.
 (pdftex.def)             Requested size: 503.74843pt x 257.35008pt.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <24.19> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 277.
 Package epstopdf Info: Source file: <images/models/Const1_export.eps>
-(epstopdf)                    date: 2014-06-11 14:29:57
-(epstopdf)                    size: 25191 bytes
+(epstopdf)                    date: 2014-06-11 15:44:15
+(epstopdf)                    size: 25216 bytes
 (epstopdf)             Output file: <images/models/Const1_export-eps-converted-
 to.pdf>
-(epstopdf)                    date: 2014-06-11 14:30:07
-(epstopdf)                    size: 5362 bytes
+(epstopdf)                    date: 2014-06-11 15:44:21
+(epstopdf)                    size: 5382 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/models/Const1_expor
 t-eps-converted-to.pdf images/models/Const1_export.eps>
 (epstopdf)             \includegraphics on input line 277.
@@ -1169,12 +1171,12 @@ Package pdftex.def Info: images/models/Const1_export-eps-converted-to.pdf used
 on input line 277.
 (pdftex.def)             Requested size: 503.74843pt x 251.88788pt.
 Package epstopdf Info: Source file: <images/models/HSimpleConstDead.eps>
-(epstopdf)                    date: 2014-06-11 14:30:03
-(epstopdf)                    size: 28124 bytes
+(epstopdf)                    date: 2014-06-11 15:44:16
+(epstopdf)                    size: 28162 bytes
 (epstopdf)             Output file: <images/models/HSimpleConstDead-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2014-06-11 14:30:07
-(epstopdf)                    size: 5845 bytes
+(epstopdf)                    date: 2014-06-11 15:44:21
+(epstopdf)                    size: 5861 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/models/HSimpleConst
 Dead-eps-converted-to.pdf images/models/HSimpleConstDead.eps>
 (epstopdf)             \includegraphics on input line 277.
@@ -1190,11 +1192,11 @@ ed on input line 277.
 (pdftex.def)             Requested size: 503.74843pt x 275.23135pt.
 Package epstopdf Info: Source file: <images/models/HSimpleConstDead_export.eps>
 
-(epstopdf)                    date: 2014-06-11 14:30:03
+(epstopdf)                    date: 2014-06-11 15:44:16
 (epstopdf)                    size: 25812 bytes
 (epstopdf)             Output file: <images/models/HSimpleConstDead_export-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2014-06-11 14:30:07
+(epstopdf)                    date: 2014-06-11 15:44:21
 (epstopdf)                    size: 5516 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/models/HSimpleConst
 Dead_export-eps-converted-to.pdf images/models/HSimpleConstDead_export.eps>
@@ -1209,28 +1211,68 @@ type pdf)
 Package pdftex.def Info: images/models/HSimpleConstDead_export-eps-converted-to
 .pdf used on input line 277.
 (pdftex.def)             Requested size: 503.74843pt x 233.88892pt.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.19> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 277.
 Package epstopdf Info: Source file: <images/models/Flatten1.eps>
-(epstopdf)                    date: 2014-06-11 14:29:59
-(epstopdf)                    size: 30884 bytes
+(epstopdf)                    date: 2014-06-11 15:44:16
+(epstopdf)                    size: 30785 bytes
 (epstopdf)             Output file: <images/models/Flatten1-eps-converted-to.pd
 f>
-(epstopdf)                    date: 2014-06-11 14:30:07
-(epstopdf)                    size: 6421 bytes
+(epstopdf)                    date: 2014-06-11 15:44:21
+(epstopdf)                    size: 6408 bytes
 (epstopdf)             Command: <repstopdf --outfile=images/models/Flatten1-eps
 -converted-to.pdf images/models/Flatten1.eps>
 (epstopdf)             \includegraphics on input line 277.
 Package epstopdf Info: Output file is already uptodate.
 
-<images/models/Flatten1-eps-converted-to.pdf, id=20, 325.215pt x 85.31876pt>
+<images/models/Flatten1-eps-converted-to.pdf, id=20, 256.96pt x 83.31125pt>
 File: images/models/Flatten1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use images/models/Flatten1-eps-converted-to.pdf>
 Package pdftex.def Info: images/models/Flatten1-eps-converted-to.pdf used on in
 put line 277.
-(pdftex.def)             Requested size: 629.68315pt x 165.207pt.
+(pdftex.def)             Requested size: 503.74843pt x 163.33849pt.
+Package epstopdf Info: Source file: <images/models/Flatten1_subsystem.eps>
+(epstopdf)                    date: 2014-06-11 15:44:16
+(epstopdf)                    size: 29510 bytes
+(epstopdf)             Output file: <images/models/Flatten1_subsystem-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2014-06-11 15:44:21
+(epstopdf)                    size: 6016 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/models/Flatten1_sub
+system-eps-converted-to.pdf images/models/Flatten1_subsystem.eps>
+(epstopdf)             \includegraphics on input line 277.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/models/Flatten1_subsystem-eps-converted-to.pdf, id=21, 179.67125pt x 10
+4.39pt>
+File: images/models/Flatten1_subsystem-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use images/models/Flatten1_subsystem-eps-converted-to.pdf>
+Package pdftex.def Info: images/models/Flatten1_subsystem-eps-converted-to.pdf 
+used on input line 277.
+(pdftex.def)             Requested size: 377.81372pt x 219.52806pt.
+Package epstopdf Info: Source file: <images/models/Flatten1_export.eps>
+(epstopdf)                    date: 2014-06-11 15:44:15
+(epstopdf)                    size: 31194 bytes
+(epstopdf)             Output file: <images/models/Flatten1_export-eps-converte
+d-to.pdf>
+(epstopdf)                    date: 2014-06-11 15:44:22
+(epstopdf)                    size: 6329 bytes
+(epstopdf)             Command: <repstopdf --outfile=images/models/Flatten1_exp
+ort-eps-converted-to.pdf images/models/Flatten1_export.eps>
+(epstopdf)             \includegraphics on input line 277.
+Package epstopdf Info: Output file is already uptodate.
+
+<images/models/Flatten1_export-eps-converted-to.pdf, id=22, 305.14pt x 99.37125
+pt>
+File: images/models/Flatten1_export-eps-converted-to.pdf Graphic file (type pdf
+)
+ <use images/models/Flatten1_export-eps-converted-to.pdf>
+Package pdftex.def Info: images/models/Flatten1_export-eps-converted-to.pdf use
+d on input line 277.
+(pdftex.def)             Requested size: 649.15707pt x 211.41205pt.
 LaTeX Font Info:    Calculating math sizes for size <24.19> on input line 277.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.19> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 277.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <16.93292> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 277.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12.095> not available
@@ -1248,55 +1290,10 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <12.095> not available
 (Font)              Font shape `OT1/phv/b/it' tried instead on input line 277.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <12.095> not available
 (Font)              Font shape `OT1/phv/b/sl' tried instead on input line 277.
-Package epstopdf Info: Source file: <images/models/Flatten1_subsystem.eps>
-(epstopdf)                    date: 2014-06-11 14:29:59
-(epstopdf)                    size: 28911 bytes
-(epstopdf)             Output file: <images/models/Flatten1_subsystem-eps-conve
-rted-to.pdf>
-(epstopdf)                    date: 2014-06-11 14:30:08
-(epstopdf)                    size: 5839 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/models/Flatten1_sub
-system-eps-converted-to.pdf images/models/Flatten1_subsystem.eps>
-(epstopdf)             \includegraphics on input line 277.
-Package epstopdf Info: Output file is already uptodate.
-
-<images/models/Flatten1_subsystem-eps-converted-to.pdf, id=21, 211.79124pt x 10
-8.405pt>
-File: images/models/Flatten1_subsystem-eps-converted-to.pdf Graphic file (type 
-pdf)
- <use images/models/Flatten1_subsystem-eps-converted-to.pdf>
-Package pdftex.def Info: images/models/Flatten1_subsystem-eps-converted-to.pdf 
-used on input line 277.
-(pdftex.def)             Requested size: 629.68315pt x 322.3641pt.
-Package epstopdf Info: Source file: <images/models/Flatten1_export.eps>
-(epstopdf)                    date: 2014-06-11 14:29:59
-(epstopdf)                    size: 30894 bytes
-(epstopdf)             Output file: <images/models/Flatten1_export-eps-converte
-d-to.pdf>
-(epstopdf)                    date: 2014-06-11 14:30:08
-(epstopdf)                    size: 6226 bytes
-(epstopdf)             Command: <repstopdf --outfile=images/models/Flatten1_exp
-ort-eps-converted-to.pdf images/models/Flatten1_export.eps>
-(epstopdf)             \includegraphics on input line 277.
-Package epstopdf Info: Output file is already uptodate.
-
-<images/models/Flatten1_export-eps-converted-to.pdf, id=22, 305.14pt x 99.37125
-pt>
-File: images/models/Flatten1_export-eps-converted-to.pdf Graphic file (type pdf
-)
- <use images/models/Flatten1_export-eps-converted-to.pdf>
-Package pdftex.def Info: images/models/Flatten1_export-eps-converted-to.pdf use
-d on input line 277.
-(pdftex.def)             Requested size: 1298.31415pt x 422.8256pt.
-LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <24.19> not available
-(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 277.
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <29.04> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 277.
-
-Overfull \vbox (175.07048pt too high) detected at line 277
- []
-
 File: images/mcgill.logo.embossed.sharpened.pdf Graphic file (type pdf)
+
 <use images/mcgill.logo.embossed.sharpened.pdf>
 Package pdftex.def Info: images/mcgill.logo.embossed.sharpened.pdf used on inpu
 t line 277.
@@ -1332,22 +1329,22 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 278.
  ) 
 Here is how much of TeX's memory you used:
- 18102 strings out of 493308
- 335366 string characters out of 6143617
- 527864 words of memory out of 5000000
- 21088 multiletter control sequences out of 15000+600000
- 70644 words of font info for 188 fonts, out of 8000000 for 9000
+ 18100 strings out of 493308
+ 335328 string characters out of 6143617
+ 529546 words of memory out of 5000000
+ 21086 multiletter control sequences out of 15000+600000
+ 71159 words of font info for 190 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 48i,26n,66p,406b,1269s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,26n,66p,409b,1269s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/urw/c
 ourier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></
 usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist
 /fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on poster.pdf (1 page, 96756 bytes).
+Output written on poster.pdf (1 page, 97246 bytes).
 PDF statistics:
  105 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
+ 4 named destinations out of 1000 (max. 500000)
  88 words of extra memory for PDF output out of 10000 (max. 10000000)
 

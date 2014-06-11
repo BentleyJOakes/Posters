@@ -166,7 +166,7 @@
            height="31"
            transform="matrix(0,-1,1,0,0,0)"
            id="rect32"
-           style="fill:#ffffff;stroke:none" />
+           style="fill:#9bd5fc;stroke:none" />
         <text
            x="172"
            y="170"
@@ -204,7 +204,7 @@
            points="150,170 150,170 120,185 120,155 120,155 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polygon42"
-           style="fill:#ffffff;stroke:none" />
+           style="fill:#9bd5fc;stroke:none" />
         <polyline
            points="120,155 150,170 150,170 120,185 120,155 "
            transform="matrix(0,-1,1,0,0,0)"
@@ -232,7 +232,7 @@
            height="30"
            transform="matrix(0,-1,1,0,0,0)"
            id="rect50"
-           style="fill:#ffffff;stroke:none" />
+           style="fill:#9bd5fc;stroke:none" />
         <text
            x="31"
            y="122"
@@ -263,7 +263,7 @@
            height="36"
            transform="matrix(0,-1,1,0,0,0)"
            id="rect58"
-           style="fill:#ffffff;stroke:none" />
+           style="fill:#9bd5fc;stroke:none" />
         <text
            x="46"
            y="200"

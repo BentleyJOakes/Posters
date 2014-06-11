@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="133"
-   height="263"
-   viewBox="0 0 133 263"
+   width="128"
+   height="223"
+   viewBox="0 0 128 223"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -38,33 +38,33 @@
      inkscape:window-height="480"
      id="namedview135"
      showgrid="false"
-     inkscape:zoom="0.8973384"
-     inkscape:cx="66.5"
-     inkscape:cy="131.5"
+     inkscape:zoom="1.058296"
+     inkscape:cx="64"
+     inkscape:cy="111.5"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <rect
-     x="65"
-     y="-198"
-     width="133"
-     height="263"
+     x="47.5"
+     y="-175.5"
+     width="128"
+     height="223"
      id="rect4"
      transform="matrix(0,1,-1,0,0,0)"
      style="fill:#ffffff" />
   <g
      clip-path="url(#clip_rect_0)"
      id="g6"
-     transform="matrix(0,1,-1,0,195.375,64.645)">
+     transform="matrix(0,1,-1,0,172.875,47.145)">
     <g
-       transform="translate(-87,356)"
+       transform="translate(-92,316)"
        id="g8">
       <g
          id="g10">
         <rect
-           x="320"
-           y="128"
+           x="280"
+           y="143"
            width="30"
            height="14"
            rx="6.7741899"
@@ -73,8 +73,8 @@
            id="rect12"
            style="fill:#e8d152;stroke:none" />
         <rect
-           x="320"
-           y="128"
+           x="280"
+           y="143"
            width="30"
            height="14"
            rx="6.7741899"
@@ -83,125 +83,125 @@
            id="rect14"
            style="fill:none;stroke:#000000;stroke-width:1" />
         <text
-           x="323.5"
-           y="154"
+           x="283.5"
+           y="169"
            font-size="10"
            transform="matrix(0,-1,1,0,0,0)"
            id="text16"
            style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">Out1</text>
         <text
-           x="332"
-           y="139.5"
+           x="292"
+           y="154.5"
            font-size="10"
            transform="matrix(0,-1,1,0,0,0)"
            clip-path="url(#clip_rect_1)"
            id="text18"
            style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">1</text>
         <ellipse
-           cx="285"
-           cy="135"
+           cx="245"
+           cy="150"
            rx="10"
            ry="10"
            transform="matrix(0,-1,1,0,0,0)"
            id="ellipse20"
-           d="m 295,135 c 0,5.52285 -4.47715,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52285,0 10,4.47715 10,10 z"
-           sodipodi:cx="285"
-           sodipodi:cy="135"
+           d="m 255,150 c 0,5.52285 -4.47715,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52285,0 10,4.47715 10,10 z"
+           sodipodi:cx="245"
+           sodipodi:cy="150"
            sodipodi:rx="10"
            sodipodi:ry="10"
            style="fill:#e8d152;stroke:none" />
         <ellipse
-           cx="285"
-           cy="135"
+           cx="245"
+           cy="150"
            rx="10"
            ry="10"
            transform="matrix(0,-1,1,0,0,0)"
            id="ellipse22"
-           d="m 295,135 c 0,5.52285 -4.47715,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52285,0 10,4.47715 10,10 z"
-           sodipodi:cx="285"
-           sodipodi:cy="135"
+           d="m 255,150 c 0,5.52285 -4.47715,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52285,0 10,4.47715 10,10 z"
+           sodipodi:cx="245"
+           sodipodi:cy="150"
            sodipodi:rx="10"
            sodipodi:ry="10"
            style="fill:none;stroke:#000000;stroke-width:1" />
         <text
-           x="271.5"
-           y="157"
+           x="231.5"
+           y="172"
            font-size="10"
            transform="matrix(0,-1,1,0,0,0)"
            id="text24"
            style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">Sum2</text>
         <line
-           x1="283"
-           y1="130"
-           x2="287"
-           y2="130"
+           x1="243"
+           y1="145"
+           x2="247"
+           y2="145"
            transform="matrix(0,-1,1,0,0,0)"
            clip-path="url(#clip_rect_2)"
            id="line26"
            style="stroke:#000000;stroke-width:1" />
         <line
-           x1="285"
-           y1="128"
-           x2="285"
-           y2="132"
+           x1="245"
+           y1="143"
+           x2="245"
+           y2="147"
            transform="matrix(0,-1,1,0,0,0)"
            clip-path="url(#clip_rect_2)"
            id="line28"
            style="stroke:#000000;stroke-width:1" />
         <line
-           x1="278"
-           y1="135"
-           x2="282"
-           y2="135"
+           x1="238"
+           y1="150"
+           x2="242"
+           y2="150"
            transform="matrix(0,-1,1,0,0,0)"
            clip-path="url(#clip_rect_2)"
            id="line30"
            style="stroke:#000000;stroke-width:1" />
         <line
-           x1="280"
-           y1="133"
-           x2="280"
-           y2="137"
+           x1="240"
+           y1="148"
+           x2="240"
+           y2="152"
            transform="matrix(0,-1,1,0,0,0)"
            clip-path="url(#clip_rect_2)"
            id="line32"
            style="stroke:#000000;stroke-width:1" />
         <rect
-           x="210"
-           y="117"
+           x="175"
+           y="132"
            width="30"
            height="31"
            transform="matrix(0,-1,1,0,0,0)"
            id="rect34"
            style="fill:#e8d152;stroke:none" />
         <text
-           x="204"
-           y="160"
+           x="169"
+           y="175"
            font-size="10"
            transform="matrix(0,-1,1,0,0,0)"
            id="text36"
            style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">Product2</text>
         <line
-           x1="228"
-           y1="135"
-           x2="222"
-           y2="129"
+           x1="193"
+           y1="150"
+           x2="187"
+           y2="144"
            transform="matrix(0,-1,1,0,0,0)"
            clip-path="url(#clip_rect_3)"
            id="line38"
            style="stroke:#000000;stroke-width:1" />
         <line
-           x1="228"
-           y1="129"
-           x2="222"
-           y2="135"
+           x1="193"
+           y1="144"
+           x2="187"
+           y2="150"
            transform="matrix(0,-1,1,0,0,0)"
            clip-path="url(#clip_rect_3)"
            id="line40"
            style="stroke:#000000;stroke-width:1" />
         <rect
-           x="210"
-           y="117"
+           x="175"
+           y="132"
            width="30"
            height="31"
            transform="matrix(0,-1,1,0,0,0)"
@@ -223,13 +223,13 @@
            id="text46"
            style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">Constant2</text>
         <text
-           x="122"
+           x="117.5"
            y="189.5"
            font-size="10"
            transform="matrix(0,-1,1,0,0,0)"
            clip-path="url(#clip_rect_4)"
            id="text48"
-           style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">1</text>
+           style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">5.0</text>
         <rect
            x="110"
            y="170"
@@ -274,8 +274,8 @@
            id="text58"
            style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">2</text>
         <rect
-           x="115"
-           y="93"
+           x="110"
+           y="98"
            width="30"
            height="14"
            rx="6.7741899"
@@ -284,8 +284,8 @@
            id="rect60"
            style="fill:#e8d152;stroke:none" />
         <rect
-           x="115"
-           y="93"
+           x="110"
+           y="98"
            width="30"
            height="14"
            rx="6.7741899"
@@ -294,15 +294,15 @@
            id="rect62"
            style="fill:none;stroke:#000000;stroke-width:1" />
         <text
-           x="122.5"
-           y="119"
+           x="117.5"
+           y="124"
            font-size="10"
            transform="matrix(0,-1,1,0,0,0)"
            id="text64"
            style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">In1</text>
         <text
-           x="127"
-           y="104.5"
+           x="122"
+           y="109.5"
            font-size="10"
            transform="matrix(0,-1,1,0,0,0)"
            clip-path="url(#clip_rect_6)"
@@ -317,20 +317,20 @@
            id="line68"
            style="stroke:#000000;stroke-width:1" />
         <line
-           x1="205"
-           y1="125"
-           x2="195"
-           y2="125"
+           x1="170"
+           y1="140"
+           x2="160"
+           y2="140"
            transform="matrix(0,-1,1,0,0,0)"
            id="line70"
            style="stroke:#000000;stroke-width:1" />
         <polygon
-           points="200,130 210,125 200,120 200,120 "
+           points="165,145 175,140 165,135 165,135 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polygon72"
            style="fill:#000000;stroke:none" />
         <polyline
-           points="143,140 145,140 175,140 175,125 195,125 197,125 "
+           points="143,140 145,140 160,140 162,140 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polyline74"
            style="fill:none;stroke:#000000;stroke-width:1" />
@@ -343,98 +343,98 @@
            id="line76"
            style="stroke:#000000;stroke-width:1" />
         <line
-           x1="205"
-           y1="140"
-           x2="195"
-           y2="140"
+           x1="170"
+           y1="155"
+           x2="160"
+           y2="155"
            transform="matrix(0,-1,1,0,0,0)"
            id="line78"
            style="stroke:#000000;stroke-width:1" />
         <polygon
-           points="200,145 210,140 200,135 200,135 "
+           points="165,160 175,155 165,150 165,150 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polygon80"
            style="fill:#000000;stroke:none" />
         <polyline
-           points="143,185 145,185 190,185 190,140 195,140 197,140 "
+           points="143,185 145,185 160,185 160,155 162,155 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polyline82"
            style="fill:none;stroke:#000000;stroke-width:1" />
         <line
-           x1="145"
-           y1="100"
-           x2="150"
-           y2="100"
+           x1="140"
+           y1="105"
+           x2="145"
+           y2="105"
            transform="matrix(0,-1,1,0,0,0)"
            id="line84"
            style="stroke:#000000;stroke-width:1" />
         <line
-           x1="285"
-           y1="120"
-           x2="285"
-           y2="110"
+           x1="245"
+           y1="135"
+           x2="245"
+           y2="125"
            transform="matrix(0,-1,1,0,0,0)"
            id="line86"
            style="stroke:#000000;stroke-width:1" />
         <polygon
-           points="280,115 285,125 290,115 290,115 "
+           points="240,130 245,140 250,130 250,130 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polygon88"
            style="fill:#000000;stroke:none" />
         <polyline
-           points="148,100 150,100 150,110 285,110 285,112 "
+           points="143,105 145,105 245,105 245,125 245,127 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polyline90"
            style="fill:none;stroke:#000000;stroke-width:1" />
         <line
-           x1="240"
-           y1="135"
-           x2="245"
-           y2="135"
+           x1="205"
+           y1="150"
+           x2="210"
+           y2="150"
            transform="matrix(0,-1,1,0,0,0)"
            id="line92"
            style="stroke:#000000;stroke-width:1" />
         <line
-           x1="270"
-           y1="135"
-           x2="260"
-           y2="135"
+           x1="230"
+           y1="150"
+           x2="220"
+           y2="150"
            transform="matrix(0,-1,1,0,0,0)"
            id="line94"
            style="stroke:#000000;stroke-width:1" />
         <polygon
-           points="265,140 275,135 265,130 265,130 "
+           points="225,155 235,150 225,145 225,145 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polygon96"
            style="fill:#000000;stroke:none" />
         <polyline
-           points="243,135 245,135 260,135 262,135 "
+           points="208,150 210,150 220,150 222,150 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polyline98"
            style="fill:none;stroke:#000000;stroke-width:1" />
         <line
-           x1="295"
-           y1="135"
-           x2="300"
-           y2="135"
+           x1="255"
+           y1="150"
+           x2="260"
+           y2="150"
            transform="matrix(0,-1,1,0,0,0)"
            id="line100"
            style="stroke:#000000;stroke-width:1" />
         <line
-           x1="315"
-           y1="135"
-           x2="305"
-           y2="135"
+           x1="275"
+           y1="150"
+           x2="265"
+           y2="150"
            transform="matrix(0,-1,1,0,0,0)"
            id="line102"
            style="stroke:#000000;stroke-width:1" />
         <polygon
-           points="310,140 320,135 310,130 310,130 "
+           points="270,155 280,150 270,145 270,145 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polygon104"
            style="fill:#000000;stroke:none" />
         <polyline
-           points="298,135 300,135 305,135 307,135 "
+           points="258,150 260,150 265,150 267,150 "
            transform="matrix(0,-1,1,0,0,0)"
            id="polyline106"
            style="fill:none;stroke:#000000;stroke-width:1" />
@@ -442,7 +442,7 @@
     </g>
   </g>
   <g
-     transform="matrix(0,1,-1,0,263,263)"
+     transform="matrix(0,1,-1,0,223,223)"
      id="g108">
     <g
        id="g110" />
@@ -454,15 +454,15 @@
       <rect
          x="4"
          y="4"
-         width="123"
-         height="253"
+         width="118"
+         height="213"
          id="rect115" />
     </clipPath>
     <clipPath
        id="clip_rect_1">
       <rect
-         x="320"
-         y="128"
+         x="280"
+         y="143"
          width="30"
          height="14"
          id="rect118" />
@@ -470,8 +470,8 @@
     <clipPath
        id="clip_rect_2">
       <rect
-         x="275"
-         y="125"
+         x="235"
+         y="140"
          width="20"
          height="20"
          id="rect121" />
@@ -479,8 +479,8 @@
     <clipPath
        id="clip_rect_3">
       <rect
-         x="210"
-         y="117"
+         x="175"
+         y="132"
          width="30"
          height="31"
          id="rect124" />
@@ -506,8 +506,8 @@
     <clipPath
        id="clip_rect_6">
       <rect
-         x="115"
-         y="93"
+         x="110"
+         y="98"
          width="30"
          height="14"
          id="rect133" />
