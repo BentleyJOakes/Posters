@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="35cm" height="29cm" viewBox="488 143 693 576" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="547.228" y="177.095" width="273.728" height="92.5556"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="547.228" y="177.095" width="273.728" height="92.5556"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="684.092" y="214.295">
+      <tspan x="684.092" y="214.295">Generic</tspan>
+      <tspan x="684.092" y="249.573">Model</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="490.168" y="345.444" width="387.755" height="106.667"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="490.168" y="345.444" width="387.755" height="106.667"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="684.045" y="389.7">
+      <tspan x="684.045" y="389.7">Platform-Independent</tspan>
+      <tspan x="684.045" y="424.977">Model</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="489.416" y="537.568" width="389.154" height="106.667"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="489.416" y="537.568" width="389.154" height="106.667"/>
+    <text font-size="28.2222" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="683.993" y="581.824">
+      <tspan x="683.993" y="581.824">Platform-Dependent</tspan>
+      <tspan x="683.993" y="617.102">Model</tspan>
+    </text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="830.692,246.512 1180,246.512 1180,200.234 820.956,200.234 "/>
+    <polygon style="fill: #000000" points="823.192,246.512 833.192,241.512 830.692,246.512 833.192,251.512 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="823.192,246.512 833.192,241.512 830.692,246.512 833.192,251.512 "/>
+  </g>
+  <text font-size="22.5778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1042.37" y="164.735">
+    <tspan x="1042.37" y="164.735">Model-level</tspan>
+    <tspan x="1042.37" y="192.957">Optimization</tspan>
+  </text>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="887.658,425.444 1179,425.444 1179,372.111 877.922,372.111 "/>
+    <polygon style="fill: #000000" points="880.158,425.444 890.158,420.444 887.658,425.444 890.158,430.444 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="880.158,425.444 890.158,420.444 887.658,425.444 890.158,430.444 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="888.307,617.568 1179,617.568 1179,564.235 878.571,564.235 "/>
+    <polygon style="fill: #000000" points="880.807,617.568 890.807,612.568 888.307,617.568 890.807,622.568 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="880.807,617.568 890.807,612.568 888.307,617.568 890.807,622.568 "/>
+  </g>
+  <text font-size="22.5778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1042.48" y="336.133">
+    <tspan x="1042.48" y="336.133">Platform-Independent</tspan>
+    <tspan x="1042.48" y="364.355">Optimization</tspan>
+  </text>
+  <text font-size="22.5778" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="1048.23" y="529.554">
+    <tspan x="1048.23" y="529.554">Platform-Dependent</tspan>
+    <tspan x="1048.23" y="557.776">Optimization</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="684.08" y1="270.655" x2="684.062" y2="334.72"/>
+    <polygon style="fill: #000000" points="684.06,342.22 679.063,332.219 684.062,334.72 689.063,332.221 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="684.06,342.22 679.063,332.219 684.062,334.72 689.063,332.221 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="684.03" y1="453.106" x2="684.011" y2="526.837"/>
+    <polygon style="fill: #000000" points="684.009,534.337 679.011,524.336 684.011,526.837 689.011,524.339 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="684.009,534.337 679.011,524.336 684.011,526.837 689.011,524.339 "/>
+  </g>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="760.039" y="298.386">
+    <tspan x="760.039" y="298.386">Specialization</tspan>
+    <tspan x="760.039" y="323.08">Optimization</tspan>
+  </text>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="756.797" y="491.752">
+    <tspan x="756.797" y="491.752">Specialization</tspan>
+    <tspan x="756.797" y="516.446">Optimization</tspan>
+  </text>
+  <text font-size="19.7556" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="748.477" y="666.392">
+    <tspan x="748.477" y="666.392">Code</tspan>
+    <tspan x="748.477" y="691.086">Generation</tspan>
+  </text>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 20 4 4 4 4 4; stroke: #000000" x1="683.736" y1="645.207" x2="683.443" y2="706.907"/>
+    <polygon style="fill: #000000" points="683.407,714.407 678.455,704.383 683.443,706.907 688.454,704.431 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="683.407,714.407 678.455,704.383 683.443,706.907 688.454,704.431 "/>
+  </g>
+</svg>

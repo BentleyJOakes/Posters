@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="104"
+   height="404"
+   viewBox="0 0 104 404"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Flatten1.svg">
+  <metadata
+     id="metadata163">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview161"
+     showgrid="false"
+     inkscape:zoom="0.58415842"
+     inkscape:cx="52"
+     inkscape:cy="202"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <rect
+     x="150"
+     y="-254"
+     width="104"
+     height="404"
+     id="rect4"
+     transform="matrix(0,1,-1,0,0,0)"
+     style="fill:#ffffff" />
+  <g
+     clip-path="url(#clip_rect_0)"
+     id="g6"
+     transform="matrix(0,1,-1,0,251.865,150.135)">
+    <g
+       transform="translate(-94,411)"
+       id="g8">
+      <g
+         id="g10">
+        <rect
+           x="375"
+           y="123"
+           width="30"
+           height="14"
+           rx="6.7741899"
+           ry="6.7741899"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect12"
+           style="fill:#ffffff;stroke:none" />
+        <rect
+           x="375"
+           y="123"
+           width="30"
+           height="14"
+           rx="6.7741899"
+           ry="6.7741899"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect14"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <text
+           x="378.5"
+           y="149"
+           font-size="10"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="text16"
+           style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">Out1</text>
+        <text
+           x="387"
+           y="134.5"
+           font-size="10"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_1)"
+           id="text18"
+           style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">1</text>
+        <ellipse
+           cx="335"
+           cy="130"
+           rx="10"
+           ry="10"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="ellipse20"
+           d="m 345,130 c 0,5.52285 -4.47715,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52285,0 10,4.47715 10,10 z"
+           sodipodi:cx="335"
+           sodipodi:cy="130"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           style="fill:#ffffff;stroke:none" />
+        <ellipse
+           cx="335"
+           cy="130"
+           rx="10"
+           ry="10"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="ellipse22"
+           d="m 345,130 c 0,5.52285 -4.47715,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52285,0 10,4.47715 10,10 z"
+           sodipodi:cx="335"
+           sodipodi:cy="130"
+           sodipodi:rx="10"
+           sodipodi:ry="10"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <line
+           x1="328"
+           y1="130"
+           x2="332"
+           y2="130"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_2)"
+           id="line24"
+           style="stroke:#000000;stroke-width:1" />
+        <line
+           x1="330"
+           y1="128"
+           x2="330"
+           y2="132"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_2)"
+           id="line26"
+           style="stroke:#000000;stroke-width:1" />
+        <line
+           x1="333"
+           y1="135"
+           x2="337"
+           y2="135"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_2)"
+           id="line28"
+           style="stroke:#000000;stroke-width:1" />
+        <line
+           x1="335"
+           y1="133"
+           x2="335"
+           y2="137"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_2)"
+           id="line30"
+           style="stroke:#000000;stroke-width:1" />
+        <rect
+           x="225"
+           y="108"
+           width="65"
+           height="44"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect32"
+           style="fill:#e8d152;stroke:none" />
+        <text
+           x="231.5"
+           y="164"
+           font-size="10"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="text34"
+           style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">Subsystem</text>
+        <text
+           x="228"
+           y="124"
+           font-size="9"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_3)"
+           id="text36"
+           style="font-size:9px;fill:#000000;stroke:none;font-family:Helvetica">In1</text>
+        <text
+           x="228"
+           y="144"
+           font-size="9"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_3)"
+           id="text38"
+           style="font-size:9px;fill:#000000;stroke:none;font-family:Helvetica">In2</text>
+        <text
+           x="267"
+           y="134"
+           font-size="9"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_3)"
+           id="text40"
+           style="font-size:9px;fill:#000000;stroke:none;font-family:Helvetica">Out1</text>
+        <rect
+           x="225"
+           y="108"
+           width="65"
+           height="44"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect42"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <rect
+           x="155"
+           y="147"
+           width="30"
+           height="31"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect44"
+           style="fill:#ffffff;stroke:none" />
+        <text
+           x="152"
+           y="190"
+           font-size="10"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="text46"
+           style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">Product</text>
+        <line
+           x1="173"
+           y1="165"
+           x2="167"
+           y2="159"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_4)"
+           id="line48"
+           style="stroke:#000000;stroke-width:1" />
+        <line
+           x1="173"
+           y1="159"
+           x2="167"
+           y2="165"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_4)"
+           id="line50"
+           style="stroke:#000000;stroke-width:1" />
+        <rect
+           x="155"
+           y="147"
+           width="30"
+           height="31"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect52"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <rect
+           x="25"
+           y="102"
+           width="45"
+           height="36"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect54"
+           style="fill:#ffffff;stroke:none" />
+        <text
+           x="26"
+           y="150"
+           font-size="10"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="text56"
+           style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">Constant</text>
+        <text
+           x="33.5"
+           y="124.5"
+           font-size="10"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_5)"
+           id="text58"
+           style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">12.34</text>
+        <rect
+           x="25"
+           y="102"
+           width="45"
+           height="36"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect60"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <rect
+           x="15"
+           y="163"
+           width="30"
+           height="14"
+           rx="6.7741899"
+           ry="6.7741899"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect62"
+           style="fill:#ffffff;stroke:none" />
+        <rect
+           x="15"
+           y="163"
+           width="30"
+           height="14"
+           rx="6.7741899"
+           ry="6.7741899"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect64"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <text
+           x="22.5"
+           y="189"
+           font-size="10"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="text66"
+           style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">In1</text>
+        <text
+           x="27"
+           y="174.5"
+           font-size="10"
+           transform="matrix(0,-1,1,0,0,0)"
+           clip-path="url(#clip_rect_6)"
+           id="text68"
+           style="font-size:10px;fill:#000000;stroke:none;font-family:Helvetica">1</text>
+        <line
+           x1="220"
+           y1="120"
+           x2="210"
+           y2="120"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line70"
+           style="stroke:#000000;stroke-width:1" />
+        <polygon
+           points="215,125 225,120 215,115 215,115 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polygon72"
+           style="fill:#000000;stroke:none" />
+        <polyline
+           points="105,120 105,100 195,100 195,120 210,120 212,120 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polyline74"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <line
+           x1="150"
+           y1="155"
+           x2="140"
+           y2="155"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line76"
+           style="stroke:#000000;stroke-width:1" />
+        <polygon
+           points="145,160 155,155 145,150 145,150 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polygon78"
+           style="fill:#000000;stroke:none" />
+        <polyline
+           points="105,120 115,120 115,155 140,155 142,155 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polyline80"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <line
+           x1="70"
+           y1="120"
+           x2="75"
+           y2="120"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line82"
+           style="stroke:#000000;stroke-width:1" />
+        <polyline
+           points="73,120 75,120 105,120 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polyline84"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <rect
+           x="104"
+           y="119"
+           width="2"
+           height="2"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect86"
+           style="fill:#000000;stroke:none" />
+        <rect
+           x="104"
+           y="119"
+           width="2"
+           height="2"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect88"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <line
+           x1="45"
+           y1="170"
+           x2="50"
+           y2="170"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line90"
+           style="stroke:#000000;stroke-width:1" />
+        <line
+           x1="150"
+           y1="170"
+           x2="140"
+           y2="170"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line92"
+           style="stroke:#000000;stroke-width:1" />
+        <polygon
+           points="145,175 155,170 145,165 145,165 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polygon94"
+           style="fill:#000000;stroke:none" />
+        <polyline
+           points="48,170 50,170 140,170 142,170 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polyline96"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <line
+           x1="335"
+           y1="145"
+           x2="335"
+           y2="155"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line98"
+           style="stroke:#000000;stroke-width:1" />
+        <polygon
+           points="340,150 335,140 330,150 330,150 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polygon100"
+           style="fill:#000000;stroke:none" />
+        <polyline
+           points="200,165 200,180 335,180 335,155 335,153 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polyline102"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <line
+           x1="220"
+           y1="140"
+           x2="210"
+           y2="140"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line104"
+           style="stroke:#000000;stroke-width:1" />
+        <polygon
+           points="215,145 225,140 215,135 215,135 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polygon106"
+           style="fill:#000000;stroke:none" />
+        <polyline
+           points="200,165 210,165 210,140 212,140 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polyline108"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <line
+           x1="185"
+           y1="165"
+           x2="190"
+           y2="165"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line110"
+           style="stroke:#000000;stroke-width:1" />
+        <polyline
+           points="188,165 190,165 200,165 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polyline112"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <rect
+           x="199"
+           y="164"
+           width="2"
+           height="2"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect114"
+           style="fill:#000000;stroke:none" />
+        <rect
+           x="199"
+           y="164"
+           width="2"
+           height="2"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="rect116"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <line
+           x1="290"
+           y1="130"
+           x2="295"
+           y2="130"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line118"
+           style="stroke:#000000;stroke-width:1" />
+        <line
+           x1="320"
+           y1="130"
+           x2="310"
+           y2="130"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line120"
+           style="stroke:#000000;stroke-width:1" />
+        <polygon
+           points="315,135 325,130 315,125 315,125 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polygon122"
+           style="fill:#000000;stroke:none" />
+        <polyline
+           points="293,130 295,130 310,130 312,130 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polyline124"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+        <line
+           x1="345"
+           y1="130"
+           x2="350"
+           y2="130"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line126"
+           style="stroke:#000000;stroke-width:1" />
+        <line
+           x1="370"
+           y1="130"
+           x2="360"
+           y2="130"
+           transform="matrix(0,-1,1,0,0,0)"
+           id="line128"
+           style="stroke:#000000;stroke-width:1" />
+        <polygon
+           points="365,135 375,130 365,125 365,125 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polygon130"
+           style="fill:#000000;stroke:none" />
+        <polyline
+           points="348,130 350,130 360,130 362,130 "
+           transform="matrix(0,-1,1,0,0,0)"
+           id="polyline132"
+           style="fill:none;stroke:#000000;stroke-width:1" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(0,1,-1,0,404,404)"
+     id="g134">
+    <g
+       id="g136" />
+  </g>
+  <defs
+     id="defs138">
+    <clipPath
+       id="clip_rect_0">
+      <rect
+         x="4"
+         y="4"
+         width="94"
+         height="394"
+         id="rect141" />
+    </clipPath>
+    <clipPath
+       id="clip_rect_1">
+      <rect
+         x="375"
+         y="123"
+         width="30"
+         height="14"
+         id="rect144" />
+    </clipPath>
+    <clipPath
+       id="clip_rect_2">
+      <rect
+         x="325"
+         y="120"
+         width="20"
+         height="20"
+         id="rect147" />
+    </clipPath>
+    <clipPath
+       id="clip_rect_3">
+      <rect
+         x="225"
+         y="108"
+         width="65"
+         height="44"
+         id="rect150" />
+    </clipPath>
+    <clipPath
+       id="clip_rect_4">
+      <rect
+         x="155"
+         y="147"
+         width="30"
+         height="31"
+         id="rect153" />
+    </clipPath>
+    <clipPath
+       id="clip_rect_5">
+      <rect
+         x="25"
+         y="102"
+         width="45"
+         height="36"
+         id="rect156" />
+    </clipPath>
+    <clipPath
+       id="clip_rect_6">
+      <rect
+         x="15"
+         y="163"
+         width="30"
+         height="14"
+         id="rect159" />
+    </clipPath>
+  </defs>
+</svg>
