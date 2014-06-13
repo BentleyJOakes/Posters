@@ -18,9 +18,10 @@
   \graphicspath{{figures/}}
   \title{Optimizing Simulink\textsuperscript{\textregistered} Models}
   
-  \author{Bentley James Oakes}
+  \author{Bentley James Oakes$^{\dagger}$, Clark Verbrugge$^{\dagger}$, and Hans Vangheluwe$^{\dagger\ddagger}$}
   
-  \institute[McGill University]{McGill University, Montreal, Canada}
+  \institute[McGill University]{$^{\dagger}$McGill University, Montreal,
+      Canada\qquad $^{\ddagger}$University of Antwerp, Belgium}
   
   \date{\today}
 
@@ -31,14 +32,13 @@
       
         \begin{block}{\large Problem Statement}
         \small
-   		The Simulink\textsuperscript{\textregistered} modelling tool is used to diagram and study cyber-physical systems. One advantage
-   		of modelling the systems in this way is that embeddable code can generated from the models directly.
-   		However, this process means that inefficiencies in the model may be propagated to the code. Optimizations may be performed during code
+   		The Simulink\textsuperscript{\textregistered} modelling tool is used to diagram and study cyber-physical systems, and to generate embeddable code directly from the models.
+   		However, this code generation process means that inefficiencies in the model may be propagated to the code. Optimizations may be performed during code
    		generation, but this may lead to an unacceptable loss of traceability in determining
    		which parts of the model were modified or removed.\\~\\
    	    Our works focuses on defining model-to-model optimizations, where the optimized
    		model can be loaded back into Simulink for further development or analysis. We suggest this improves traceability and
-   		can allow model specialization for different platforms. In this work, we present three optimizations to improve model simulation performance or the visual layout of the model.
+   		can allow model specialization for different platforms. In this work, we present three optimizations to improve model simulation performance and/or the visual layout of the model.
         \end{block}
         
 
@@ -55,7 +55,7 @@
              \small
            \begin{center}\textbf{Model-level}\end{center}
            \footnotesize
-           These optimizations are those that are not dependent in any way on the target architecture, and focus on changing the structure itself of the model. \\~\\~\\
+           These optimizations are those that are not dependent in any way on the target architecture. As such, they focus on changing the structure of the model itself. \\~\\
            
            \textbf{Examples:}
            
@@ -85,12 +85,12 @@
            \end{itemize}
             \end{column}
             \hspace{-1.2cm}\vrule\hspace{.05cm}
-            \begin{column}{.16\linewidth}
+            \begin{column}{.17\linewidth}
             \small
           \begin{center}\textbf{Platform-dependent}\end{center}
           \footnotesize
             Platform-dependent optimizations can be characterized by their dependence on a particular target
-            architecture.\\~\\
+            architecture.\\~\\~\\
                                    
            \textbf{Examples:}
            
@@ -132,7 +132,7 @@
        \small
       \begin{center}\textbf{Transformation}\end{center}
         \footnotesize
-        The optimization framework can then transform the model, based on the analysis results. This transformation is performed by utilizing the Himesis model format. After the transformation is complete, the optimized model is imported back into Simulink to be further developed.
+        The optimization framework can then transform the model, based on the analysis results. This transformation is performed by utilizing the Himesis model format. After the transformation is complete, the optimized model is imported back into Simulink to be further developed~\cite{Denil}.
         \end{column}
               \end{columns}
         \end{block}
@@ -156,13 +156,14 @@
         \end{column}
         \begin{column}{.485\linewidth}
         \begin{center}
+        \vspace{0.9cm}
         \includegraphics[width=0.7\linewidth]{images/models/Const1_export}\\
         \footnotesize \textit{Model after}
         \end{center}
         \end{column}
         \end{columns}
         \footnotesize ~\\~\\
-        The constant folding optimization determines which blocks will always produce a constant value. For example, the four blocks on the left in the original model can be replaced by one constant block. This reduces the computational effort required to simulate this model.
+        The constant folding optimization determines which blocks will always produce a constant value. For example, the four blocks on the left in the original model can be replaced by one constant block, reducing the computational effort required to simulate this model.
          ~\\~\\
          \hrule
          
@@ -179,13 +180,14 @@
          \end{column}
          \begin{column}{.485\linewidth}
          \begin{center}
+         \vspace{1.2cm}
          \includegraphics[width=0.8\linewidth]{images/models/HSimpleConstDead_export}\\
         \footnotesize \textit{Model after}
          \end{center}
          \end{column}
          \end{columns}
           \footnotesize ~\\~\\
-         The dead-block removal optimization determines which blocks produce an output that is not further used in the model. For example, the output of the addition block on the left in the original model is not connected to another block. Thus the addition block and one constant block can be removed from the model.
+         The dead-block removal optimization determines which blocks produce output that is not involved in further computation. For example, the output of the addition block on the left in the original model is not connected to another block. Thus the addition block and one constant block can be removed from the model.
           ~\\~\\
          \hrule
          \small
@@ -194,13 +196,14 @@
          \begin{columns}[c,totalwidth=\linewidth]
          \begin{column}{.485\linewidth}
          \begin{center}
-         
+         ~\\
          \includegraphics[width=0.8\linewidth]{images/models/Flatten1}\\
          \footnotesize \textit{Model before}
          \end{center}
          \end{column}
          \begin{column}{.485\linewidth}
          \begin{center}
+         \vspace{-0.6cm}
          \includegraphics[width=0.6\linewidth]{images/models/Flatten1_subsystem}\\
          \footnotesize \textit{Inner subsystem before}
          \end{center}
@@ -211,9 +214,10 @@
           \footnotesize \textit{Flattened model after}
           \end{center}
          \footnotesize
-         The flattening optimization ``lifts'' blocks out of an inner subsystem of a model. Similarly to function inlining, this may allow further optimizations to further simplify the model. As well, a flattening transformation may replace the flattening step performed during code generation, allowing the code generator to be less complex.
-         
+         The flattening optimization ``lifts'' blocks out of an inner subsystem of a model. Similarly to function inlining, this may allow other optimizations to simplify the model even further. As well, a flattening transformation may replace the flattening step performed during code generation, allowing the code generator to be less complex.
+         \vspace{0.5cm}
         \end{block}
+        
       \end{column}
 \vspace{0.1cm}
      \begin{column}{.4\linewidth}
@@ -267,20 +271,23 @@
              \end{block}
              \vspace{-0.2cm}
              \begin{block}{Conclusions \& Future Work}
-             \small
-        	   The optimizations shown here demonstrate how the performance of a model simulation can be increased (as for the constant folding optimization), and how a model can be made visually simpler (as with the dead-block removal and flattening optimizations). Our framework allows these optimizations to be specified and implemented easily, and for a model to be optimized 
+             \footnotesize
+        	   The optimizations shown here demonstrate how the performance of a model simulation can be increased (as for the constant folding optimization), and how the visual layout of a model can be improved (as with the dead-block removal and flattening optimizations). Our framework allows these optimizations to be specified and implemented easily, and for model optimization to be on the order of seconds.
         	   
         	   ~\\
         	   Future work will focus on specifying more optimizations at all levels of the optimization hierarchy. As well, experiments will be performed on larger and more complex models. Finally, we aim to formally verify the model transformations used.\\~\\
         	   \footnotesize
         	   \textbf{Acknowledgments}\\
-        	   We would like to thank Joachim Denil, Bart Pussig, and Pieter Mosterman from The Mathworks for their support.
+        	   We would like to thank Joachim Denil (NECSIS), Bart Pussig (University of Antwerp), and Pieter Mosterman (The Mathworks) for their support.
              \end{block}
              \vspace{-0.2cm}
              \begin{block}{Bibliography}
-             \small
+             \footnotesize
      	   \begin{thebibliography}{10} 
+     	   \vspace{-0.45cm}
+     	  \footnotesize
      	   \bibitem{SLE2010} Bentley James Oakes, {\em Optimizing Simulink Models}, Report for COMP 621 - Program Analysis and Transformations, \url{https://github.com/BentleyJOakes/BDOT}
+     	   \bibitem{Denil} Joachim Denil and Pieter J. Mosterman and Hans Vangheluwe, {\em Rule-Based Model Transformation For, and In Simulink}, Theory of Modeling and Simulation 2014 (to appear)
           		\end{thebibliography}	   
               	\end{block}
                      
